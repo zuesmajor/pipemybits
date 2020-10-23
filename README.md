@@ -7,4 +7,4 @@ Build & Run Docker Image
 $ ./bootstrap.sh
 ```
 
-![Preview](sample.png)
+![Preview](sample1.png)
